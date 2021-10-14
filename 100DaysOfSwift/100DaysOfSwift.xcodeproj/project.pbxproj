@@ -17,6 +17,7 @@
 		B143E06D27131BC1000B1415 /* SecondDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = B143E06C27131BC1000B1415 /* SecondDay.swift */; };
 		B184F99E271469B600B8706C /* ThirdDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = B184F99D271469B600B8706C /* ThirdDay.swift */; };
 		B184F9A227164A9900B8706C /* FourthDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = B184F9A127164A9900B8706C /* FourthDay.swift */; };
+		B184F9C42718548D00B8706C /* FifthDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = B184F9C32718548D00B8706C /* FifthDay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B143E06C27131BC1000B1415 /* SecondDay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondDay.swift; sourceTree = "<group>"; };
 		B184F99D271469B600B8706C /* ThirdDay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdDay.swift; sourceTree = "<group>"; };
 		B184F9A127164A9900B8706C /* FourthDay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthDay.swift; sourceTree = "<group>"; };
+		B184F9C32718548D00B8706C /* FifthDay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthDay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				B143E06C27131BC1000B1415 /* SecondDay.swift */,
 				B184F99D271469B600B8706C /* ThirdDay.swift */,
 				B184F9A127164A9900B8706C /* FourthDay.swift */,
+				B184F9C32718548D00B8706C /* FifthDay.swift */,
 			);
 			path = "Introduction to Swift";
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B184F9C42718548D00B8706C /* FifthDay.swift in Sources */,
 				B143DFE42711BD74000B1415 /* ViewController.swift in Sources */,
 				B143DFE02711BD74000B1415 /* AppDelegate.swift in Sources */,
 				B143DFE22711BD74000B1415 /* SceneDelegate.swift in Sources */,
