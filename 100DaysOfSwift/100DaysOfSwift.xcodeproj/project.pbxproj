@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B11C70F7271BB63200CA7015 /* SeventhDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11C70F6271BB63200CA7015 /* SeventhDay.swift */; };
 		B143DFE02711BD74000B1415 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B143DFDF2711BD74000B1415 /* AppDelegate.swift */; };
 		B143DFE22711BD74000B1415 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B143DFE12711BD74000B1415 /* SceneDelegate.swift */; };
 		B143DFE42711BD74000B1415 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B143DFE32711BD74000B1415 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B11C70F6271BB63200CA7015 /* SeventhDay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeventhDay.swift; sourceTree = "<group>"; };
 		B143DFDC2711BD74000B1415 /* 100DaysOfSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 100DaysOfSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B143DFDF2711BD74000B1415 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B143DFE12711BD74000B1415 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				B184F9A127164A9900B8706C /* FourthDay.swift */,
 				B184F9C32718548D00B8706C /* FifthDay.swift */,
 				B184F9C527185E5200B8706C /* SixthDay.swift */,
+				B11C70F6271BB63200CA7015 /* SeventhDay.swift */,
 			);
 			path = "Introduction to Swift";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B11C70F7271BB63200CA7015 /* SeventhDay.swift in Sources */,
 				B184F9C627185E5200B8706C /* SixthDay.swift in Sources */,
 				B184F9C42718548D00B8706C /* FifthDay.swift in Sources */,
 				B143DFE42711BD74000B1415 /* ViewController.swift in Sources */,
