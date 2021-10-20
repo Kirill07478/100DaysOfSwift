@@ -21,7 +21,8 @@ class ViewController: UIViewController {
         //SixthDay.sixthDayCheck()
         //SeventhDay.seventhDayCheck()
         //EighthDay.eighthDayCheck()
-        NinthDay.ninthDayCheck()
+        //NinthDay.ninthDayCheck()
+        TenthDay.tenthDayCheck()
     }
 
 
