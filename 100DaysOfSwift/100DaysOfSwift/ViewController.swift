@@ -25,7 +25,8 @@ class ViewController: UIViewController {
         //TenthDay.tenthDayCheck()
         //EleventhDay.eleventhDauCheck()
         //TwelweDay is lost
-        ThirteenthDay.day13Check()
+        //ThirteenthDay.day13Check()
+        Days1415.days1415()
     }
 
 
